@@ -5,3 +5,4 @@ Stage 2 model is used to detect cracks in that image.
 .h5 files for each model are here in the given drive links:
 Stage 1 model: https://drive.google.com/file/d/1FjqUXi116Fr2hNYGPbPq7YXzYq4R80vd/view?usp=drive_link
 Stage 2 models: https://drive.google.com/file/d/1j_OdkB8vCTXlS-T1KJPXpu0AtMad8LdC/view?usp=drive_link
+The demonstration of how our system works can be checked from webpage made through following drive link: https://drive.google.com/file/d/1vTUedThh_mcvhdqwpUGK9Vy28_ZC1K7b/view?usp=sharing.
